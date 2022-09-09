@@ -1,0 +1,11 @@
+https://inception-project.github.io/releases/24.1/docs/user-guide.html#knowledge_bases_in_getting_started_in_structrue
+
+
+https://groups.google.com/g/inception-users/c/mw9CEprRuT4?pli=1
+
+https://groups.google.com/g/inception-users/c/jQ2ikt0uKUo?pli=1
+
+
+
+
+Hi, As of now, we are annotating documents in the cybersecurity context using the stix framework by using the inception tool. Inception work using corpus After that, we need to use the annotated data in json or xml to python code to make decisions on their own if we upload any documents. Based on that need to do assignments 2, 3, 4 thank you. Regards, Parvathi Project Title: Building a cyber security relation extraction system to generate a network representation of cyber security attacks for SOC analysts Project Summary: This project aims to build a relationship extraction model for the cybersecurity domain. Relationship extraction involves extracting meaningful associations between concepts and entities from the textual content. Any relationship extraction module aims to identify textual segments that indicate semantic relationships between entities. These relationships fall into several types or classes, such as friend_of, child_of, married_to, located_in, etc. Relationship extraction is vital in building knowledge graphs or semantic networks where nodes (concepts) are connected to other nodes via relationships. In the context of cybersecurity, the relation extraction system would be able to extract relationship mentions from the text about cyber security concepts such as attacks, vulnerabilities, threats, etc. The trained cyber security relationship extraction model should generate semantic triples resulting in a structured representation of textual content, which a security analyst can use to inspect and respond to a cyber security attack. Skills required: · Good communication skills · Must have good understanding of cyber security domain · Capacity to work independently and with minimal supervision · Creativity in design concept
